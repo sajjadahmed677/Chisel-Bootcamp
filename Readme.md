@@ -1,3 +1,3 @@
 # Scala repository
 
-This repository is for beginners
+This repository contains chisel basic example codes. 
